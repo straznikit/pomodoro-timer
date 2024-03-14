@@ -7,11 +7,11 @@ Visual notifications are provided at the beginning and end of each Pomodoro and 
 
 ## Usage:
 
-Run the script.
+1. Run the script.
 
-Start the timer, and focus on your work during each Pomodoro interval.
+2. Start the timer, and focus on your work during each Pomodoro interval.
 
-Take short breaks between Pomodoros to rest and recharge.
+3. Take short breaks between Pomodoros to rest and recharge.
 
 ## Dependencies:
 
